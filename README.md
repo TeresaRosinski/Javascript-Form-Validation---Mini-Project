@@ -13,10 +13,6 @@
 <h4 align="center">Last Updated: 12/16/2020</h4>
 
 ----
-
-|:-----:|:-----:|:-----:|:-----:|
- [**TeresaRosinski**](https://github.com/TeresaRosinski) 
-
 ## Known Bugs
 
 * n/a
